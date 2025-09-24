@@ -1,3 +1,7 @@
+# BuildFingerprint spoof to fix RCS/Wallet
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    BuildFingerprint=google/mustang_beta/mustang:CANARY/ZP11.260515.009/15513807:user/release-keys
+
 # Evolution X packages
 PRODUCT_PACKAGES += \
     AxQuickLook \
