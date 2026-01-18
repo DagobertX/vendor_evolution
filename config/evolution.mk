@@ -11,7 +11,6 @@ PRODUCT_PRODUCT_PROPERTIES += \
     persist.sys.pihooks_SDK_INT?=32
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildFingerprint=google/komodo_beta/komodo:16/CP11.251209.007.A1/14691868:user/release-keys \
     PihooksGmsFp="google/komodo_beta/komodo:16/CP11.251209.007.A1/14691868:user/release-keys" \
     PihooksGmsModel="Pixel 9 Pro XL"
 
